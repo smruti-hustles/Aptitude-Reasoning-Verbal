@@ -1,5 +1,4 @@
 # Coding and Decoding Aptitude Topics
-[Practice Link](https://www.faceprep.in/logical-reasoning/problems-on-coding-and-decoding/)
 
 In coding and decoding aptitude tests, questions are typically framed to evaluate logical thinking, pattern recognition, and problem-solving skills. Here are some common types of questions you might encounter:
 
@@ -68,3 +67,7 @@ A series of numbers or letters is given, and you have to find the rule and predi
 Incorporating basic math operations into the coding process.
 
 **Example**: If A+1 = 2, B+2 = 4, then what is D+4?
+
+## Additional Resources
+
+For more examples and practice questions, check out [Coding and Decoding Questions](https://www.faceprep.in/logical-reasoning/problems-on-coding-and-decoding/)
