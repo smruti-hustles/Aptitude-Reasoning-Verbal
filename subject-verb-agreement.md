@@ -49,4 +49,4 @@ The basic rule of subject-verb agreement is that singular subjects take singular
 ## Additional Resources
 
 For more concepts, examples and practice questions, check out [Subject-Verb-Agreement Concept](https://byjus.com/english/subject-verb-agreement/)
-[Practice Questions](https://testbook.com/objective-questions/mcq-on-subject-verb-agreement--5eea6a0e39140f30f369e3ea)
+check out, [Practice Questions](https://testbook.com/objective-questions/mcq-on-subject-verb-agreement--5eea6a0e39140f30f369e3ea)
